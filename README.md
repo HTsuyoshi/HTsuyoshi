@@ -11,8 +11,8 @@
 <div>
 	<img width="100px" src="https://raw.githubusercontent.com/HTsuyoshi/pixel-art/master/assets/arthur_camadasjuntas.gif">
 	<img width="100px" src="https://raw.githubusercontent.com/HTsuyoshi/HTsuyoshi/master/assets/JOUI.gif">
-	<a href="https://www.aseprite.org/" target="_blank"><img align="right" width="20px" src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase128.png" /></a>
-	<a href="https://www.piskelapp.com/" target="_blank"><img align="right" width="20px" src="https://avatars.githubusercontent.com/u/28667131?s=200&v=4" /></a>
+	<a href="https://www.aseprite.org/" target="_blank" rel="noopener noreferrer"><img align="right" width="20px" src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase128.png" /></a>
+	<a href="https://www.piskelapp.com/" target="_blank" rel="noopener noreferrer"><img align="right" width="20px" src="https://avatars.githubusercontent.com/u/28667131?s=200&v=4" /></a>
 <br />
 
 </div>
