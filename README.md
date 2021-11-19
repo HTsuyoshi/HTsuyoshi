@@ -1,12 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tsuyoshi!
 
 #### EACH-USP
-- Information System Undergraduate
-- Currently intersted in Infosec and Gamedev
+- Information System Undergraduate (4th Semester)
 
 #### Hobbies
-- CTF player
-- Pixel art lover 
+- Linux
+- FOSS (Free and Open-Source Software)
+- Infosec
+- Gamedev
+- Art/Design
 
 <div>
 	<img width="100px" src="https://raw.githubusercontent.com/HTsuyoshi/pixel-art/master/assets/arthur_camadasjuntas.gif">
@@ -16,7 +18,5 @@
 <br />
 
 </div>
-
-
 
 [![Tsu’s github stats](https://github-readme-stats.vercel.app/api?username=HTsuyoshi&theme=monokai&layout=compact&hide_title=true&hide_border=true&show_icons=true)](https://github.com/HTsuyoshi)
