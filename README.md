@@ -1,6 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tsuyoshi!
+### I am Tsuyoshi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### EACH-USP
+#### University of São Paulo
 - Information System Undergraduate (4th Semester)
 
 #### Hobbies
