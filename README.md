@@ -1,9 +1,7 @@
-### I am Tsuyoshi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi! I am Tsuyoshi! 
 
-#### University of São Paulo
+#### University of São Paulo (USP)
 - Information System Undergraduate (4th Semester)
-
-[![Tsu’s github stats](https://github-readme-stats.vercel.app/api?username=HTsuyoshi&theme=radical&layout=compact&hide_title=true&hide_border=true&show_icons=true)](https://github.com/HTsuyoshi)
 
 <table>
 <tr>
@@ -41,4 +39,4 @@
 
 </table>
 
-
+[![Tsu’s github stats](https://github-readme-stats.vercel.app/api?username=HTsuyoshi&theme=radical&layout=compact&hide_title=true&hide_border=true&show_icons=true)](https://github.com/HTsuyoshi)
