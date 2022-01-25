@@ -3,7 +3,7 @@
 #### University of São Paulo
 - Information System Undergraduate (4th Semester)
 
-[![Tsu’s github stats](https://github-readme-stats.vercel.app/api?username=HTsuyoshi&theme=monokai&layout=compact&hide_title=true&hide_border=true&show_icons=true)](https://github.com/HTsuyoshi)
+[![Tsu’s github stats](https://github-readme-stats.vercel.app/api?username=HTsuyoshi&theme=radical&layout=compact&hide_title=true&hide_border=true&show_icons=true)](https://github.com/HTsuyoshi)
 
 <table>
 <tr>
