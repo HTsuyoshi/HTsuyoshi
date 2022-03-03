@@ -3,6 +3,8 @@
 #### University of São Paulo (USP)
 - Information System Undergraduate (4th Semester)
 
+[My website](./Htsuyoshi.github.io) (Currently under construction)
+
 <table>
 <tr>
 	<th> Hobbies </th>
