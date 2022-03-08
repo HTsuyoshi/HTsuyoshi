@@ -26,14 +26,14 @@
 
 <tr>
 	<td>Infosec</td>
-	<td><img width="200px" src="https://github.com/HTsuyoshi/Htsuyoshi.github.io/blob/main/_assets/web_site.gif?raw=true"></td>
+	<td>Studying Cryptography</td>
 	<td><a href="https://github.com/HTsuyoshi/write-ups">CTF</a>, <a href="https://github.com/HTsuyoshi/usp/tree/master/MAC0336/">Usp subject</a></td>
 </tr>
 	
 <tr>
 	<td>WebDev</td>
-	<td>Jekyll, anime.js</td>
-	<td><a href="https://Htsuyoshi.github.io">CTF</a></td>
+	<td><img width="200px" src="https://github.com/HTsuyoshi/Htsuyoshi.github.io/blob/main/_assets/web_site.gif?raw=true"></td>
+	<td><a href="https://Htsuyoshi.github.io">Website</a></td>
 </tr>
 
 <tr>
