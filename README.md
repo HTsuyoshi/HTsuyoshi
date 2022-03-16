@@ -38,7 +38,7 @@
 
 <tr>
 	<td>Gamedev</td>
-	<td><img width="75px" src="https://raw.githubusercontent.com/HTsuyoshi/pixel-art/master/assets/arthur_camadasjuntas.gif">
+	<td><img width="75px" src="https://raw.githubusercontent.com/HTsuyoshi/art/master/public/arthur_camadasjuntas.gif">
 	<img width="75px" src="https://raw.githubusercontent.com/HTsuyoshi/HTsuyoshi/master/assets/JOUI.gif">
 	<a href="https://www.aseprite.org/" target="_blank" rel="noopener noreferrer"><img align="right" width="15px" src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase128.png" /></a>
 	<a href="https://www.piskelapp.com/" target="_blank" rel="noopener noreferrer"><img align="right" width="15px" src="https://avatars.githubusercontent.com/u/28667131?s=200&v=4" /></a></td>
