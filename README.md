@@ -22,7 +22,9 @@ I have some experience with:
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>
@@ -30,7 +32,7 @@ I have some experience with:
 
 #### Security
 
-I'm also interested in the Security Information Area, nowadays I'm studiying in the Portswigger plataform, some books and some classes
+I'm also interested in the Security Information Area, nowadays I'm studying in the Portswigger plataform, some books and some classes
 
 #### Hobbies
 
