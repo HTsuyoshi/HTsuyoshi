@@ -34,6 +34,7 @@ I have some experience with:
 
 <div align="center">
 <table>
+
 <tr>
 	<th> Hobbies </th>
 	<th> Link </th>
