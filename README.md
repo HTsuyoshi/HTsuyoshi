@@ -67,7 +67,6 @@ I have some experience with:
 
 <tr>
 	<td>Gamedev</td>
-	<td><img height="75px" src="https://github.com/HTsuyoshi/art/blob/master/public/Cryptography/Rota%C3%A7%C3%A3o%2013%20-%20FInal.gif?raw=true">
 	<img height="75px" src="https://github.com/HTsuyoshi/art/blob/master/public/Drawings/arthur_camadasjuntas.gif?raw=true">
 	<a href="https://www.aseprite.org/" target="_blank" rel="noopener noreferrer"><img align="right" width="15px" src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase128.png" /></a>
 	<a href="https://www.piskelapp.com/" target="_blank" rel="noopener noreferrer"><img align="right" width="15px" src="https://avatars.githubusercontent.com/u/28667131?s=200&v=4" /></a></td>
