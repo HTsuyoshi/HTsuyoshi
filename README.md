@@ -37,31 +37,40 @@ I have some experience with:
 
 <tr>
 	<th> Hobbies </th>
+	<th> Projects </th>
 	<th> Link </th>
 </tr>
 	
 <tr>
 	<td>Linux</td>
+	<td>Not yet</td>
 	<td>...</td>
 </tr>
 	
 <tr>
 	<td>FOSS</td>
+	<td><img width="200px" src="https://raw.githubusercontent.com/HTsuyoshi/my-dwm/main/assets/desktop.gif"></td>
 	<td><a href="https://github.com/HTsuyoshi/my-dwm">DWM</a></td>
 </tr>
 
 <tr>
 	<td>Infosec</td>
+	<td>Studying Cryptography</td>
 	<td><a href="https://github.com/HTsuyoshi/write-ups">CTF</a>, <a href="https://github.com/HTsuyoshi/usp/tree/master/MAC0336/">Usp subject</a></td>
 </tr>
 	
 <tr>
 	<td>WebDev</td>
+	<td><img width="200px" src="https://github.com/HTsuyoshi/Htsuyoshi.github.io/blob/main/_assets/web_site.gif?raw=true"></td>
 	<td><a href="https://Htsuyoshi.github.io">Website</a> (Currently under construction)</td>
 </tr>
 
 <tr>
 	<td>Gamedev</td>
+	<td><img height="75px" src="https://github.com/HTsuyoshi/art/blob/master/public/Cryptography/Rota%C3%A7%C3%A3o%2013%20-%20FInal.gif?raw=true">
+	<img height="75px" src="https://github.com/HTsuyoshi/art/blob/master/public/Drawings/arthur_camadasjuntas.gif?raw=true">
+	<a href="https://www.aseprite.org/" target="_blank" rel="noopener noreferrer"><img align="right" width="15px" src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase128.png" /></a>
+	<a href="https://www.piskelapp.com/" target="_blank" rel="noopener noreferrer"><img align="right" width="15px" src="https://avatars.githubusercontent.com/u/28667131?s=200&v=4" /></a></td>
 	<td><a href="https://github.com/HTsuyoshi/art">Art</a></td>
 </tr>
 
