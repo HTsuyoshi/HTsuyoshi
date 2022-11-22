@@ -51,7 +51,7 @@ I have some experience with:
 	<td>Configs</td>
 	<td><img width="150px" src="https://raw.githubusercontent.com/HTsuyoshi/my-dwm/main/assets/desktop.gif">
 	<img width="150px" src="https://raw.githubusercontent.com/HTsuyoshi/bspwm-config/main/assets/screenshot-mirage.png"></td>
-	<td><a href="https://github.com/HTsuyoshi/my-dwm">DWM</a></td>
+	<td><a href="https://github.com/HTsuyoshi/my-dwm">DWM</a>, <a href="https://github.com/HTsuyoshi/bspwm-config">BSPWM</a></td>
 </tr>
 
 <tr>
