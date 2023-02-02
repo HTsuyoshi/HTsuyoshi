@@ -63,7 +63,7 @@ I have some experience with:
 <tr>
 	<td>WebDev</td>
 	<td><img width="150px" src="https://github.com/HTsuyoshi/Htsuyoshi.github.io/blob/main/_assets/web_site.gif?raw=true"></td>
-	<td><a href="https://Htsuyoshi.github.io">Website</a> (Currently under construction)</td>
+	<td><a href="https://www.htsuyoshiy.online">Website</a> (Currently under construction)</td>
 </tr>
 
 <tr>
