@@ -42,12 +42,6 @@ I have some experience with:
 </tr>
 	
 <tr>
-	<td>Linux</td>
-	<td>Not yet</td>
-	<td>...</td>
-</tr>
-	
-<tr>
 	<td>Configs</td>
 	<td><img width="150px" src="https://raw.githubusercontent.com/HTsuyoshi/my-dwm/main/assets/desktop_low.gif">
 	<img width="150px" src="https://raw.githubusercontent.com/HTsuyoshi/bspwm-config/main/assets/screenshot-mirage.png"></td>
@@ -56,7 +50,7 @@ I have some experience with:
 
 <tr>
 	<td>Infosec</td>
-	<td>Studying Cryptography</td>
+	<td>Cryptography</td>
 	<td><a href="https://github.com/HTsuyoshi/write-ups">CTF</a>, <a href="https://github.com/HTsuyoshi/usp/tree/master/MAC0336/">Usp subject</a></td>
 </tr>
 	
