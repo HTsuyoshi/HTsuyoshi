@@ -46,3 +46,5 @@ Used to play tetris at [tetr.io](https://ch.tetr.io/u/doom_azz) (S+ ranking, 202
 
 ![Tsu’s github stats](https://github-readme-stats.vercel.app/api?username=HTsuyoshi&theme=radical&layout=compact&hide_title=true&hide_border=true&show_icons=true)
 ![Tsu's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTsuyoshi&theme=radical&layout=compact&hide_border=true&hide_title=true&exclude_repo=dwm-config,st-config&langs_count=10)
+
+![Profile views](https://komarev.com/ghpvc/?username=htsuyoshiy&color=ea00ea&label=Profile%20Views)
