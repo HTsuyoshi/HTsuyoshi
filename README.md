@@ -17,6 +17,12 @@ I used to play tetris at [tetr.io](https://ch.tetr.io/u/doom_azz) (S+ ranking, 2
 	<img width="150px" src="https://raw.githubusercontent.com/HTsuyoshi/bspwm-config/main/assets/screenshot-mirage.png"></td>
 	<td><a href="https://github.com/HTsuyoshi/my-dwm">DWM</a>, <a href="https://github.com/HTsuyoshi/bspwm-config">BSPWM</a>, <a href="https://github.com/HTsuyoshi/dotfiles"> dotfiles </a></td>
 </tr>
+
+<tr>
+	<td>LaTeX</td>
+	<td><img width="150px" src="https://github.com/HTsuyoshi/nier-automata-latex-template/blob/main/output.png?raw=true"></td>
+	<td><a href="https://github.com/HTsuyoshi/nier-automata-latex-template">Nier Automata LaTeX Template</a>
+</tr>
 	
 <tr>
 	<td>Web</td>
