@@ -1,4 +1,4 @@
-I'm a System Information undergraduate at University of São Paulo (USP), Brazil.
+I'm a game developer from Brazil.
 
 I used to play tetris at [tetr.io](https://ch.tetr.io/u/doom_azz) (S+ ranking, 2021). Lets play tetris! :D
 
